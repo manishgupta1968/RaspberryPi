@@ -1,0 +1,5 @@
+sudo nano /etc/ssmtp/ssmtp.conf
+configure the above file as shown in the sample ssmtp.conf added
+setup mailhub to the gmail server
+set your username
+set your password
