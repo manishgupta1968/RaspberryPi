@@ -1,3 +1,3 @@
 #!/bin/sh
-vncserver :0 -geometry 1920x1080 -depth 24
+sudo sudo vncserver :1 -geometry 1280x800 -depth 24
 
